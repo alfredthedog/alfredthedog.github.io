@@ -1,1 +1,1 @@
-Alfredthedog.github.io
+alfredthedog.github.io
