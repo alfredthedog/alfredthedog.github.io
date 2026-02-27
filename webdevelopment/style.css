@@ -7,4 +7,9 @@ p {
     font-size: 18px;
     text-indent: 40px;
 }
-
+q {
+    color: #943E57;
+    font-size: 15px;
+    font-style: italic;
+    text-align: center;
+}
